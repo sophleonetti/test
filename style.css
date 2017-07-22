@@ -28,3 +28,8 @@ body > header > nav > ul {
   height: auto;
   border-radius: 50px;
 }
+#grouptraining article > img {
+  width: 350px;
+  height: auto;
+  border radius: 50px;
+}
